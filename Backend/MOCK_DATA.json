@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "user_name": "Oggy",
+    "age": "18",
+    "email": "oggy@gmail.com"
+  },
+  {
+    "id": 2,
+    "user_name": "Doremon",
+    "age": "21",
+    "email": "doremon@gmail.com"
+  },
+  {
+    "id": 3,
+    "user_name": "Naruto",
+    "age": "22",
+    "email": "naruto@gmail.com"
+  },
+  {
+    "id": 4,
+    "user_name": "Hey bro",
+    "age": "21",
+    "email": "hey@gmail.com"
+  },
+  {
+    "id": 5,
+    "user_name": "Superman",
+    "age": "25",
+    "email": "super@gmail.com"
+  }
+]
